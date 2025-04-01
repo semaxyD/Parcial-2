@@ -1,0 +1,10 @@
+Name: work_hours
+Type: hash:net
+Revision: 7
+Header: family inet hashsize 1024 maxelem 65536 bucketsize 12 initval 0xa39d1ada
+Size in memory: 552
+References: 2
+Number of entries: 2
+Members:
+192.168.70.2
+192.168.70.0/24

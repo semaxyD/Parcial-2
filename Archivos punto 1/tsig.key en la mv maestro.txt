@@ -1,0 +1,4 @@
+key "clave-transferencia" {
+        algorithm hmac-sha256;
+        secret "lsP807FslJ8+t1JAsCO6pshjctlZ2EgFQ0XdTcgMruE=";
+};
